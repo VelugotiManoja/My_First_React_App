@@ -1,0 +1,61 @@
+@media only screen and (max-width: 600px) {
+    .row{
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+    .jobs-custom-row{
+        padding-right: 0px !important;
+    }
+    .merritos-sub-headerlabel-nm {
+       margin-top: 20px !important;
+       font-size: 16px !important;
+       margin-left: -15px;
+   }
+    .connection-search-bar {
+        right: 0px !important;
+        margin-top: 15px !important;
+        width: 100% !important;
+        font-size: 12px !important;
+    }
+    .classes-right-search i {
+       margin-right: 5px !important;
+       margin-top: 25px !important; 
+    }
+    .layout-right
+{
+    top:10px;
+} 
+.connect-people-label {
+    cursor: pointer;
+    right: -2px !important;
+    top: 10px;
+}
+.jobs-people-label {
+    margin-top: 22px;
+    position: absolute;
+    right: 4px;
+    color: #4747a0 !important;
+    text-transform: none !important;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600 !important;
+}
+.profile-row {
+     height: auto; 
+     padding: 0px;
+}
+.defaultCard{
+    margin-bottom: 0px !important;
+}
+.classes-profile-card .noPadding{
+   padding: 15px !important;
+}
+.mobile-right-activity{
+    margin:0px -15px !important;
+}
+.mobile-right-activity-name{
+ margin-left: -5px !important;
+}
+}

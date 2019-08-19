@@ -1,0 +1,41 @@
+.login-checkbox label{
+    margin-bottom: 0;
+}
+.login-check{
+    width: 48px !important;
+    padding-left: 16px !important;
+    color: #2196f3 !important;
+}
+.login-check:checked{
+    color: #2196f3 !important;
+}
+.forgotbackbtn {
+    background-color: #ececec !important;
+    color: #252525 !important;
+}
+.headersubmit {
+    color: #ffffff !important;
+}
+.registerjusteycontent {
+    margin: 0 20px 10px !important;
+}
+.formCategory {
+    color: #afafaf;
+    margin: -8px 0px 7px 3px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.forgetbtn {
+    margin-left: -9px !important;
+}
+.login-remember {
+    margin-top: -12px;
+}
+@media only screen and (max-width: 600px) {
+.recover {
+    margin-bottom: 15px !important;
+}
+.login-remember :nth-child(2) {
+    font-family: unset;
+}
+}

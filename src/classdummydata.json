@@ -1,0 +1,80 @@
+{
+    "info": [
+        {
+            "date": "TUESDAY DEC 10",
+            "todayActivity": [
+                {
+                    "name": "krishna g",
+                    "role": "Profesnal",
+                    "activity": [
+                        {
+                            "time": "10:30",
+                            "type": "createclass",
+                            "typeOfActivity": "Create a class",
+                            "CourseName": "java",
+                            "scheduleId": "a9ilDLLW0PS0OfYndXnn"
+                        },
+                        {
+                            "time": "9:30",
+                            "type": "buyclass",
+                            "typeOfActivity": "Buy a class",
+                            "CourseName": "Express",
+                            "scheduleId": "a9ilDLLW0PS0OfYndXnn"
+                        }
+                    ]
+                },
+                {
+                    "name": "chandra m",
+                    "role": "Student",
+                    "activity": [
+                        {
+                            "time": "12:30",
+                            "type": "buyclass",
+                            "typeOfActivity": "Buy a class",
+                            "CourseName": "express",
+                            "scheduleId": "a9ilDLLW0PS0OfYndXnn"
+                        },
+                        {
+                            "time": "6:30",
+                            "type": "buyclass",
+                            "typeOfActivity": "Buy a class",
+                            "CourseName": "java",
+                            "scheduleId": "a9ilDLLW0PS0OfYndXnn"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "TUESDAY DEC 9",
+            "todayActivity": [
+                {
+                    "name": "krishna g",
+                    "role": "Profesnal",
+                    "activity": [
+                        {
+                            "time": "9:30",
+                            "type": "buyclass",
+                            "typeOfActivity": "Buy a class",
+                            "CourseName": "React",
+                            "scheduleId": "a9ilDLLW0PS0OfYndXnn"
+                        }
+                    ]
+                },
+                {
+                    "name": "vijay",
+                    "role": "Student",
+                    "activity": [
+                        {
+                            "time": "12:30",
+                            "type": "buyclass",
+                            "typeOfActivity": "Buy a class",
+                            "CourseName": "express",
+                            "scheduleId": "a9ilDLLW0PS0OfYndXnn"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

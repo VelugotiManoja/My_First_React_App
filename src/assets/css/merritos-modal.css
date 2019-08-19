@@ -1,0 +1,48 @@
+.merritos-popup{
+width: 600px;
+height: 400px;
+background-color: #f0f1f2;
+z-index: 1;
+margin: auto;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+border-radius: 4px;
+-webkit-animation: popin 0.3s;
+animation: popin 0.3s;
+}
+
+.merritos-popup-header
+{
+    font-size: 18px;
+    background-color: #4AB471;
+    color: #fff;
+    padding: 10px;
+    margin: 0;
+    border-radius: 4px 4px 0 0;
+    text-align: center;
+
+}
+#form-dialog-title
+{
+padding:15px !important;
+}
+.merritos-popup-title
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.merriots-popup-close{
+    float: right;
+    margin-top: -10px;
+}
+.merritos-popup-container
+{
+padding:0px !important;
+}
+.styles_modal__gNwvD
+{
+        padding: 0px;
+}

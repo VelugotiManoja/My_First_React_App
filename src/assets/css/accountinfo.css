@@ -1,0 +1,42 @@
+.acchead{
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin:14px 0;
+    color:#555;
+}
+.accmain{
+    background-color: #eeeeee;
+    text-align: center;
+    font-family: 'Varela Round', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #313131;
+    font-size: 16px;
+    padding-top: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+.accsubhead{
+    font-size: 1.4em;
+    letter-spacing: 0.1rem;
+    color:#777;
+}
+.under-construction-img{
+    margin-top:50px;
+}
+.under-construction-img img{
+    max-width: 250px;
+}
+@media only screen and (max-width: 600px) {
+.under-construction-img{
+    margin-top:0px;
+}
+.acchead{
+    font-size: 24px;
+    letter-spacing: 1px;
+    color:#555;
+}
+.accsubhead{
+    font-size: 20px;
+    letter-spacing: 0.1rem;
+    color:#777;
+}
+}

@@ -1,0 +1,171 @@
+.merritos-textbox, .merritos-textdate{
+    margin-bottom: 20px !important;
+}
+.merritos-textbox input, .merritos-textbox select{
+     border: 1px solid #DADCE0 !important;
+    border-radius: 6px !important;
+    margin-left: 0px !important;
+    padding-top: 6px !important;
+    padding-left: 6px !important;
+    height: 20px;
+		color:#5f6368;
+    font-family: 'Titillium Web', Helvetica, Arial, sans-serif !important;
+    font-size: 14px;
+}
+.merritos-textdate input{
+    border: 1px solid #DADCE0 !important;
+    border-radius: 5px !important;
+    margin-left: 0px !important;
+    padding-left: 10px !important;
+	background-image: none !important;
+
+}
+.merritos-textbox::before{
+    border-bottom: none !important;
+}
+.merritos-textbox select{
+    width: calc(100% - 41px) !important;
+}
+.merritos-textbox label{
+padding: 5px;
+margin-left: 10px;
+margin-top: 5px;
+background-color: #ffffff;
+
+}
+.merritos-textbox label[data-shrink=true]{
+    z-index: 2;
+}
+
+legend{
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    padding: 5px;
+}
+.steps-form{
+    padding: 20px !important;
+}
+.fileUpload-tiles{
+    border: 1px solid #cecece;
+    width: 100%;
+   
+}
+.fileUpload-tiles .title {
+	font-size: 16px;
+	color: #676767;
+	line-height: 50px;
+	height: 50px;
+	border-bottom: 1px solid #D8D8D8;
+    text-align: center;
+   
+}
+.fileUpload-tiles .upload-btn{
+    text-align: center;
+    padding: 5px;
+}
+.demo-editor{
+    min-height: 200px;
+    background-color: #fbfbfb;
+    margin-bottom: 20px;
+    border: 1px solid #f1f1f1;
+}
+.fileUpload-tiles .content {
+    display: inline-flex;
+    text-align: center;
+    width: 100%;
+    /* padding-left: 25px;
+    padding-right: 25px; */
+}
+.fileUpload-tiles .content img{
+    text-align: center;
+    display: inline-flex;
+    width: 100px;
+}
+
+.fileUpload-tiles .body{
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+}
+.fileUpload-tiles .dropzone {
+	
+	z-index: 1;
+	box-sizing: border-box;
+	display: table;
+	table-layout: fixed;
+	width: 100px;
+	height: 80px;
+	border: 1px dashed #A4A4A4;
+	border-radius: 3px;
+	text-align: center;
+    overflow: hidden;
+  display: inline-flex;
+}
+.formsuggestions
+{
+	    color: #afafaf;
+    font-size: 12px;
+    font-weight: 500;
+}
+.merritos-login-logo
+{
+	max-width: 120px;
+    margin-top: 30px;
+    display: block;
+    margin-right: auto
+}
+.merritos-form-header
+{
+	    color: #3C4858;
+    margin-top: 10px;
+    min-height: auto;
+    /* text-align: center; */
+    /* font-weight: 400; */
+    font-family: 'Titillium Web', sans-serif;
+    margin-bottom: 3px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+.merritos-form-header p
+{
+	font-size:16px;
+}
+.errortext{
+    color: red;
+}
+.errorinput input{
+    border: 1px solid red !important;
+}
+.merritos-textbox-sm{
+    margin-bottom: 0px !important;
+}
+.merritos-textbox-sm input{
+    padding-top: 0px !important;
+    padding-bottom: 1px;
+    margin-bottom: 2px !important;
+    flex-grow: 0;
+
+}
+.merritos-textdate-sm{
+    margin-bottom: 5px !important;    
+}
+.merritos-textdate-sm input{
+    border: 1px solid #DADCE0 !important;
+    border-radius: 5px !important;
+    margin-left: 0px !important;
+    padding-left: 10px !important;
+    background-image: none !important;
+    height: 24px !important;
+
+}
+.merritos-textbox-sm textarea{
+    font-size: 15px !important;
+}
+.merritos-textbox-sm div{
+    padding: 0px !important;
+}
+.merritos-textbox-sm select{
+    padding: 0px !important;
+    margin-bottom: 2px !important;
+    width: calc(100% - 6px) !important;
+    padding-left: 6px !important;
+}

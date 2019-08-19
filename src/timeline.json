@@ -1,0 +1,298 @@
+{
+  "web developer":[
+     {
+      "date":"2018-10-09",
+      "title":"HTML",
+      "author":"Roju vamshi",
+    "startTime":"9 : 27 AM",
+    "status":2,
+    "sq":1,
+    "color":"#2196f3",
+    "action":"",
+    "icon":"html.png"
+  },
+  {
+      "date":"2018-11-17",
+      "title":"CSS",
+    "author":"M Siva",
+    "startTime":"1 : 32 PM",
+    "status":1,
+    "sq":3,
+    "action":"Go to class",
+    "color":"#2196f3",
+    "icon":"css.png"
+  },
+  {
+      "date":"2019-02-19",
+      "title":"JavaScript",
+      "author":"",
+    "startTime":"",
+    "status":0,
+    "sq":5,
+    "close":true,
+    "action":"Find a class",
+    "color":"#2196f3",
+    "icon":"js.png"
+  },
+  {
+      "date":"2019-02-19",
+      "title":"Nodejs",
+      "author":"",
+    "startTime":"",
+    "status":0,
+    "sq":7,
+    "close":true,
+    "action":"Find a class",
+    "color":"#2196f3",
+    "icon":"nodejs.png"
+  },
+  {
+      "date":"2019-02-19",
+      "title":"Dojo",
+      "author":"",
+    "startTime":"",
+    "status":0,
+    "sq":9,
+    "close":true,
+    "action":"Find a class",
+    "color":"#2196f3"
+  },
+  {
+      "date":"2019-02-19",
+      "title":"Git",
+      "author":"",
+    "startTime":"",
+    "status":0,
+    "sq":9,
+    "close":true,
+    "action":"Find a class",
+    "color":"#2196f3",
+    "icon":"git.png"
+  }
+  ],
+  "none": [
+      {
+      "state":"goals",
+      "goalName":"web developer",
+      "sq":0,
+      "color":"#cecece"
+    },
+    {
+      "state":"goals",
+      "goalName":"solution architect",
+      "sq":1,
+      "color":"#cecece"
+    },
+    {
+      "state":"goals",
+      "goalName":"team lead",
+      "sq":2,
+      "color":"#cecece"
+    },
+  
+    {
+      "state":"goals",
+      "goalName":"UI Designer",
+      "sq":3,
+      "color":"#cecece"
+    }
+  ],
+  "solution architect":[
+     
+      {
+      "date":"2018-10-09",
+      "title":".Net",
+      "author":"by Roju vamshi",
+    "startTime":"9 : 27 AM",
+    "status":2,
+    "sq":1,
+    "color":"#2196f3",
+    "action":""
+  },
+  {
+      "date":"2018-11-17",
+      "title":"Java",
+    "author":"by M Siva",
+    "startTime":"1 : 32 PM",
+    "status":1,
+    "sq":3,
+    "action":"Go to class",
+    "color":"#2196f3"
+  },
+  {
+      "date":"2019-02-19",
+      "title":"Azure",
+      "author":"",
+    "startTime":"",
+    "status":0,
+    "sq":5,
+    "close":true,
+    "action":"Find a class",
+    "color":"#2196f3"
+  },
+  {
+      "date":"2019-02-19",
+      "title":"Sitecore Migration",
+      "author":"",
+    "startTime":"",
+    "status":0,
+    "sq":7,
+    "close":true,
+    "action":"Find a class",
+    "color":"#2196f3"
+  },
+  {
+      "date":"2019-02-19",
+      "title":"Microsoft SQL",
+      "author":"",
+    "startTime":"",
+    "status":0,
+    "sq":9,
+    "close":true,
+    "action":"Find a class",
+    "color":"#2196f3"
+  }
+  ],
+  "team lead":[
+    {
+     "date":"2018-10-09",
+     "title":"HTML",
+     "author":"Roju vamshi",
+   "startTime":"9 : 27 AM",
+   "status":2,
+   "sq":1,
+   "color":"#2196f3",
+   "action":"",
+   "icon":"html.png"
+ },
+ {
+     "date":"2018-11-17",
+     "title":"CSS",
+   "author":"M Siva",
+   "startTime":"1 : 32 PM",
+   "status":1,
+   "sq":3,
+   "action":"Go to class",
+   "color":"#2196f3",
+   "icon":"css.png"
+ },
+ {
+     "date":"2019-02-19",
+     "title":"JavaScript",
+     "author":"",
+   "startTime":"",
+   "status":0,
+   "sq":5,
+   "close":true,
+   "action":"Find a class",
+   "color":"#2196f3",
+   "icon":"js.png"
+ },
+ {
+     "date":"2019-02-19",
+     "title":"Nodejs",
+     "author":"",
+   "startTime":"",
+   "status":0,
+   "sq":7,
+   "close":true,
+   "action":"Find a class",
+   "color":"#2196f3",
+   "icon":"nodejs.png"
+ },
+ {
+     "date":"2019-02-19",
+     "title":"Dojo",
+     "author":"",
+   "startTime":"",
+   "status":0,
+   "sq":9,
+   "close":true,
+   "action":"Find a class",
+   "color":"#2196f3"
+ },
+ {
+     "date":"2019-02-19",
+     "title":"Git",
+     "author":"",
+   "startTime":"",
+   "status":0,
+   "sq":9,
+   "close":true,
+   "action":"Find a class",
+   "color":"#2196f3",
+   "icon":"git.png"
+ }
+ ],
+ "UI Designer":[
+   {
+    "date":"2018-10-09",
+    "title":"HTML",
+    "author":"Roju vamshi",
+  "startTime":"9 : 27 AM",
+  "status":2,
+  "sq":1,
+  "color":"#2196f3",
+  "action":"",
+  "icon":"html.png"
+},
+{
+    "date":"2018-11-17",
+    "title":"CSS",
+  "author":"M Siva",
+  "startTime":"1 : 32 PM",
+  "status":1,
+  "sq":3,
+  "action":"Go to class",
+  "color":"#2196f3",
+  "icon":"css.png"
+},
+{
+    "date":"2019-02-19",
+    "title":"JavaScript",
+    "author":"",
+  "startTime":"",
+  "status":0,
+  "sq":5,
+  "close":true,
+  "action":"Find a class",
+  "color":"#2196f3",
+  "icon":"js.png"
+},
+{
+    "date":"2019-02-19",
+    "title":"Nodejs",
+    "author":"",
+  "startTime":"",
+  "status":0,
+  "sq":7,
+  "close":true,
+  "action":"Find a class",
+  "color":"#2196f3",
+  "icon":"nodejs.png"
+},
+{
+    "date":"2019-02-19",
+    "title":"Dojo",
+    "author":"",
+  "startTime":"",
+  "status":0,
+  "sq":9,
+  "close":true,
+  "action":"Find a class",
+  "color":"#2196f3"
+},
+{
+    "date":"2019-02-19",
+    "title":"Git",
+    "author":"",
+  "startTime":"",
+  "status":0,
+  "sq":9,
+  "close":true,
+  "action":"Find a class",
+  "color":"#2196f3",
+  "icon":"git.png"
+}
+]
+}

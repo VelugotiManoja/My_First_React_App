@@ -1,0 +1,285 @@
+.profile-card img {
+    border-radius: 50px !important;
+    margin-top: 20px !important;
+    max-width: 70px !important;
+}
+.merritos-sub-headerlabel-nm {
+    color: #5d5d5d;
+    font-size: 18px;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    margin-top:20px;
+    margin-left:-15px;
+    padding-left:0px !important;
+}
+
+.back-from-profile {
+    font-size: 26px !important;
+    border: 1px solid #f3f3f3;
+    background-color: #ededed;
+    border-radius: 5px;
+    margin-right: 10px !important;
+    margin-top:-1px;
+}
+.merritos-sub-headerlabel-nm  :hover{
+    cursor:pointer !important;
+}
+.profile-card .profile-card-name {
+    font-weight: 600;
+    margin-top: -15px !important;
+    font-size:16px !important;
+    text-transform: capitalize;
+}
+.profile-card-image {
+   height: 110px;
+}
+
+.connect-people-label {
+   cursor: pointer;
+   right:13px !important;
+}
+.profile-card-status {
+    color:#5d5d5d;
+}
+.tbl {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px !important;
+}
+.profile-statistic .tbl-cell {
+    vertical-align: middle;
+    border: solid 1px #d8e2e7;
+    padding-top: 3px;
+    padding-bottom:3px;
+    font-size:13px;
+}
+.profile-statistic .tbl-cell b{
+   font-size:16px;
+}
+.merritos-education-info {
+    position: relative;
+    padding: 8px 0 0px 25px !important;
+    margin: 0 15px;
+}
+.exp-timeline .exp-timeline-range {
+    color: #6c7a86;
+    margin-top: -16px !important;
+    font-size: 15px !important;
+}
+.exp-timeline .exp-timeline-status {
+    margin: 3px 0;
+    font-size: 14px !important;
+}
+.exp-timeline .exp-timeline-location {
+    margin: 3px 0;
+    font-size: 14px !important;
+}
+
+.exp-timeline .exp-timeline-item .dot {
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    background: #fff;
+    border: solid 1px #d8e2e7;
+    border-radius: 50%;
+    left: 0;
+    top: 0px !important;
+    z-index: 3;
+}
+.exp-timeline .exp-timeline-item {
+    padding: 1px 0 20px 20px;
+    position: relative;
+}
+.btn-activtiy-profile {
+    font-size: 14px !important;
+    padding:1px 14px !important
+}
+.profile-row{
+  margin-top: 0px !important
+}
+.profile-total-card{
+    margin-top:4px !important;
+}
+.exp-timeline {
+    padding-bottom: 5px !important;
+}
+.merritos-sub-label-dark{
+    color:#212529;
+    padding: 5px;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+.merritos-sub-label-dark i{
+   font-size:22px;
+   color: #5d5d5d;
+}
+.connects-tbl {
+  width:100% !important;
+}
+.searchbar-leftmenu input {
+    padding: 3px 15px;
+    border: 1px solid #d7d9db;
+    border-radius: 20px;
+    width: 100%;
+    font-size: 16px !important;
+    color: #8492a0;
+}
+.profile-names-roles span {
+    color: #45525f;
+    margin-left:0px !important;
+    font-size:14px !important;
+    text-transform: capitalize;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width:220px !important;
+    text-overflow: ellipsis;
+}
+.profile-names-roles p {
+    font-size:12px !important;
+}
+.profile-names-roles  {
+    margin-left:0px !important;
+    margin-top: 0px !important;
+}
+.profile-names-roles-org {
+    margin-left:-4px !important;
+}
+.merritos-cell{
+   margin:-7px 0px !important;
+}
+.profile-names-roles-trainer {
+   margin-top:-2px !important;
+}
+.back-from-search{
+    margin-left:0px !important;
+    position: relative !important;
+}
+.class-search-header{
+    margin-top:0px !important;
+}
+.summary-body {
+    background-color: #ffffff;
+    display: table;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+.merritos-left-menutraining{
+    margin-top:10px;
+}
+.contact-details label{
+    text-transform: capitalize;
+}
+.connection-search-bar{
+    padding: 3px 15px !important;
+    color: #8492a0 !important;
+    font-size: 16px !important;
+    width:292px !important;
+    margin-top:18px !important;
+}
+.connects-layout-right{
+    margin-left:320px !important;
+}
+.merritos-left-menu-img{
+    max-width:35px !important;
+    border-radius:40px !important;
+}
+.merritos-left-menu-noimg{
+    max-width:35px !important;
+    border-radius:40px !important;
+    margin-top:4px !important;
+}
+.connects-notfound{
+    padding-top:50px !important;
+}
+.profile-top-row{
+  margin-top:5px !important;
+}
+.classes-right-search i{
+    margin-left: 400px !important;
+    margin-top: 21px !important;
+}
+.connections-label-padding {
+    padding-top: 25px;
+}
+.connects-activity-label{
+    margin-left:0px !important;
+}
+.merritos-cell i {
+    margin-top:10px !important;
+}
+.activity-header {
+    padding: 1px 10px !important;
+    border-bottom: 1px solid #cecece;
+    width: 100%;
+    display: -ms-flexbox;
+    display: flex;
+}
+.summary-label label {
+    padding: 5px !important;
+}
+.activity-header-details {
+    display: inline-block;
+    margin-top: -5px !important;
+}
+.activity-header-details p {
+    padding: 0px;
+    margin: 0px;
+    margin-left: 0px !important;
+    font-size: 13px;
+    color: #abb3bb;
+}
+.merritos-sub-label-nm i {
+    margin-left:0px !important;
+}
+.activity-likes {
+    margin-left: -6px !important;
+}
+.jobs-search-bar {
+   display: block !important;
+}
+.profilePic-border img{
+    max-width: 150px;
+    border: 1px solid #b9b9b9;
+    padding: 5px;
+    min-height: 150px;
+}
+.profile-noactivity i{
+    font-size:50px !important;
+}
+.profile-noactivity h4 {
+    color: #989696 !important;
+}
+
+@media screen and (max-width: 600px) {
+    .jobs-search-bar {
+        display: block !important;
+        bottom: 0px;
+     }
+     /* .classes-right-search i{
+        margin-right: 6px !important;
+        margin-top: 25px !important;
+    } */
+    .profile-row{
+        margin-top:0px !important;
+    }
+    .merritos-education-info {
+        padding: 8px 0 0px 37px !important;
+    }    
+    .class-search-header i{
+        margin-top:2px !important;
+    }
+    .merritos-classes-rightcontainer{
+        padding:0px !important;
+    }
+   .mobile-card-view {
+    padding-bottom: 10px !important;
+   }   
+.mobile-nav-bar {
+   margin-top: 56px !important;
+}
+.profile-names-roles span {
+    max-width:175px;
+}
+}

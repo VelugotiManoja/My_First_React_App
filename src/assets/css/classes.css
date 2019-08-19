@@ -1,0 +1,421 @@
+.videoplayer {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    width: 700px;
+    top: 0px;
+    bottom: 0px;
+    height: 400px;
+}
+.videodisplay {
+    height: 400px;
+    width: 700px
+}
+.class-label-title {
+    font-size: 18px;
+    padding: 10px 10px;
+    color: #637586;
+    margin-bottom:0px;
+    text-transform: none !important;
+}
+.playerbackground {
+    background: #ffffff;
+}
+.classes-header{
+    border-bottom:1px solid #ebeff2;
+    padding:19px 0;
+    text-align:center;
+    color:#59687f;
+    font-size:600;
+    font-size:19px;    
+    position:relative;
+}
+.classes-ativity-header-img {
+    margin-right: 10px;
+}
+.classes-activity-header-details{
+    display: inline-block;
+    padding-top: 5px;
+}
+.classes-activity-header-details p{
+    padding: 0px;
+    margin: 0px;
+    font-size: 14px;
+    color: #abb3bb;
+}
+.classes-activity-header-details label{
+    padding: 0px;
+    margin: 0px;
+    color: #313538;
+    font-weight: 600;
+    font-size: medium;
+}
+.classes-activity-header div{
+    margin-right: 15px;
+}
+.classes-bottom {
+    padding: 10px;
+    display: flex;
+}
+.classes-activity-header-bottom {
+    padding: 10px;
+    border-bottom: 1px solid #dce0e3;
+    display: flex;
+}
+.classes-activity-col-3{
+    padding:0px !important;
+    margin-left: -8px !important;
+    margin-bottom: 10px;
+}
+.classes-activity-col-3 div{
+    font-size: 16px;
+    color: #555;
+}
+.classes-activity-col-3 div:hover{
+    cursor: pointer;
+    /* color: #2196f3; */
+}
+.classes-activity-col-3 p{
+    font-size: 12px;
+    color: #777;
+    margin-bottom: 2px;
+}
+.class-noactivity-margin {
+    margin-top: 0 !important;
+}
+.classes-activity-likes{
+    padding: 10px 0 17px 0 !important;
+}
+.classes-activity-likes li {
+    list-style: none;
+    float: left;
+    padding-right: 7px;
+    padding-top: 2px;
+}
+.classes-activity-likes li a {
+    color: #0094DA !important;
+    font-size: 13px;
+}
+.classes-searchclasses{
+    right: -20px;
+}
+.classes-container {
+    margin-top: 10px;
+}
+.classes-activity-container{
+    background: #fff;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    margin-left: 100px;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+}
+.classes-back-to {
+    margin-top: -25px !important;
+}
+.classes-norecording{
+    padding-top:0px !important;
+}
+.class-container{
+    margin-right: -10px !important;
+    margin-left: -10px !important;
+    padding: 0 !important;
+}
+.classes-tiles{
+    padding-right: 0;
+    padding-left: 30px;
+}
+.class-search-text{
+    font-size: 14px;
+    color: #777;
+    font-weight: 600;
+}
+.suggested-classes-text {
+    font-size: 18px;
+}
+.classes-search-col {
+    padding-left: 0px !important;
+}
+.connection-sub-title{
+    margin-left: -13px !important;
+}
+.classes-searchbar-rightmenu{
+    padding: 18px 10px 10px 0px;
+}
+.classes-searchbar-rightmenu input{
+    padding: 3px 15px;
+    border: 1px solid #d7d9db;
+    border-radius: 20px;
+    width: 97%;
+    font-size: 16px;
+    color: #8492a0;
+}
+.classes-searchbar-rightmenu input::placeholder{
+    color:#cecece;
+}
+.classes-searchbar-rightmenu i{
+    margin-top: 3px;
+    position: absolute;
+    margin-left: -32px;
+    color: #cecece;
+    cursor:pointer;
+    margin-top: 4px;
+}
+.classes-schedule-dialog div:nth-child(2) {
+    width: 90%;
+    height: 90%;
+}
+.classes-schedule-dialog-content {
+    width: 100% !important;
+}
+.classes-find-label{
+    position: absolute;
+    right: 25px;
+    top: 2px;
+    color: #4747a0;
+    text-transform: none !important;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600 !important;
+}
+.classes-find-label i{
+    margin-left: -5px;
+    font-size: 20px;
+   
+}
+.classes-card-margin {
+    margin-top: 13px;
+}
+.classes-activity-heading {
+    top: 4px;
+    left: 4px;
+}
+.classes-container {
+    padding: 0 !important;
+    margin-top: 0px !important;
+}
+.classes-sub-headerlabel-nm {
+    color: #5d5d5d;
+    font-size: 18px;
+    display: inline-flex;
+    margin-left:-30px;
+    padding-left:15px !important;
+    margin-top: 2px;
+}
+.classes-sub-headerlabel-nm  :hover{
+    cursor:pointer !important;
+}
+.classes-activity-label{
+    font-weight: bold;
+    padding-left: 20px;
+}
+.classes-activity-none {
+    padding: 30px 0;
+}
+.class-box {
+    border: none !important;
+}
+.classes-syllabus {
+    padding-left: 15px;
+}
+.classes-syllabus img{
+   max-width: -webkit-fill-available;
+}
+.classes-label{
+    margin-top: -8px;
+    font-size: 16px;
+    position: absolute;
+    right: 20px;
+    color: #4747a0;
+    padding-right: 29px;
+    padding-top: 6px;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    cursor: pointer;
+    font-weight: 600;
+}
+.classes-label i{
+    color: #4747a0 !important;
+    margin-left: -17px !important;
+    font-size: 19px;
+    margin-top: 3px !important;
+}
+.classes-search-bar {
+    display: block !important;
+}
+.classes-custom-search input{
+    margin-top: 0 !important;
+}
+.classes-custom-search i{
+    margin-left: 400px !important;
+    margin-top: 3px !important;
+}
+.page-loading {
+    opacity: 0.1;
+}
+.class-tile{
+    margin-bottom: 30px;
+    background:#fff;
+    border-radius:5px;
+    box-shadow:0px 2px 3px -1px rgba(151, 171, 187, 0.7);
+    height: 268px !important;
+    position:relative;
+    width:100%;
+    transform-style: preserve-3d;
+    border: 1px solid #f6f6f6;
+}
+.classes-padding {
+    padding: 0;
+}
+.classes-cardbody {
+    padding: 0 !important;
+}
+.classes-states {
+    border-right: 1px solid #ebeff2;
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.classes-tile-strong {
+    display: block;
+    color: #adb8c2;
+    font-size: 11px;
+    font-weight: 700;
+}
+.class-tile-header {
+    padding: 19px 0 0 0 !important;
+}
+.class-tile-card {
+    margin-top: 0px !important;
+}
+.class-activity-col {
+    padding-left: 0px !important;
+}
+@media only screen and (max-width: 600px) {
+.classes-label{
+        margin-top: -8px;
+        font-size: 16px;
+        position: absolute;
+        right: 20px;
+        color: #2196f3;
+        padding-right: 29px;
+        padding-top: 6px;
+        display: -ms-inline-flexbox;
+        display: inline-flex;
+        cursor: pointer;
+        font-weight: 600;
+}
+.classes-custom-search i{
+    right: 40px;
+}
+.classes-label i{
+        color: #2196f3 !important;
+        margin-left: -17px !important;
+        font-size: 19px;
+        margin-top: 3px !important;
+}
+.class-search-icon {
+    right: 45px;
+}
+.classes-leftmenu{
+    width: 347px;
+    margin:57px 0px 0px 0px !important;
+}
+.classes-activity-label{
+    font-size: 14px !important;
+    margin-top: 5px !important;
+}
+.class-label-title {
+    font-size: 16px;
+    text-transform: none !important;
+}
+.class-container {
+      width: 100% !important;
+      margin-left:0px !important;
+    }
+.class-card{
+    margin-top:0px !important;
+}
+.classes-sub-headerlabel-nm {
+    margin-left:0px;
+    padding-left:0 !important;
+}
+.classes-header{
+    padding:11px 0;
+    font-size:16px;
+}
+.classes-boxtypical{
+    padding:0px;
+}
+.videodisplay {
+    height: 235px;
+    width: 330px;
+    margin-left: 15px;
+ }
+ .classes-searchclasses{
+    right: -10px;
+}
+.classes-activity-container{
+    margin-left: 0px;
+}
+.classes-container {
+    margin-top: 0px;
+}
+.classes-back-to{
+    margin-left: 0;
+}
+.classes-tiles{
+    padding-right: 30px;
+}
+.classes-searchbar-rightmenu input{
+    margin-left: 20px;
+    margin-top: 4px;
+    width: 90%;
+}
+.classes-searchbar-rightmenu i{
+    margin-top: 7px;
+     position: absolute;
+     margin-left: -32px;
+     color: #cecece;
+     cursor: pointer;
+ }
+ .classes-topbar {
+    margin-top: 5px;
+}
+.classes-find-label {
+    right: 25px;
+    top: 5px;
+}
+.classes-profile-card {
+    height: 74vh !important;
+}
+.classes-back-profile {
+    margin-top: -4px !important;
+    margin-right: 0px !important;
+}
+.videoplayer {
+    height: 236px;
+}
+.class-search-text {
+    margin-top: 15px;
+}
+.titleclasses-mobile{
+    display: none;
+}
+.class-tile-card {
+    margin-top: 30px !important;
+}
+.class-activity-col {
+    padding-left: 0px !important;
+    padding-right: 0 !important;
+}
+}
+.classes-create-class{
+    padding-top: 8px;
+    font-size: 24px !important;
+}
+.create-class-label{
+    padding: 7px 14px 0px 4px !important;
+}

@@ -1,0 +1,700 @@
+body{
+    padding: 1px;
+	 background-color: #f9f9f9;
+}
+
+.styles_modal__gNwvD  
+{ 
+ padding: 20px;
+    border-radius: 5px;
+}
+.SchedulePage-gridHead-540 , .SchedulePage-gridHead-398
+{
+	border:0px !important;
+}
+legend
+{
+	display: block;
+    width: 100%;
+    font-family: Raleway-Black;
+    font-size: 30px;
+    color: #333333;
+    line-height: 1.2;
+    text-transform: uppercase;
+    text-align: left;
+    padding-bottom: 0px;
+	margin : 0px !important;
+}
+.modelSize input:after
+{
+	border-bottom: 2px solid #4747a0 !important;
+	
+}
+.MuiTab-root-271 
+{
+	background: #f0f0f0 !important;
+}
+.MuiTab-selected-276
+{
+	background: #fff !important;
+}
+.connectionsList{
+    border: 0px ;
+    border-radius: 0px;
+    box-shadow: none;
+   border: 0px;
+    border-bottom: 1px solid #eee;
+padding: 10px !important;
+    margin: 0px;
+	    width: 100% !important;
+    
+}
+.connectionsList:hover{
+    background-color: #f9f9f9;
+}
+.connectionsul
+{
+	    background-color: #fff;
+
+}
+.Connections-activelabel-398 span {
+  color: #0094DA;
+  font-size: 16px;
+}
+
+.right-tab-container
+{
+	box-shadow:0px 0px 0px #777 !important;
+	background-color: transparent !important;
+}
+.merritos-right-tab-container
+{
+	margin:0px !important;
+}
+.merritos-right-tab-container  div
+{
+	display:inherit !important;
+}
+.merritos-tab-item
+{
+	margin:0px !important;
+	margin-right: 15px !important
+}
+.merritos-tab-item > span
+{
+	display	:contents !important;
+}
+.merritos-tab-item > span > span
+{
+	padding		:1px !important;
+}
+.connection-profilePics {
+    max-height: 150px !important;
+    max-width: 150px !important;
+}
+.merritos-jobs-left-header 
+{
+	background-color:transparent !important;
+font-weight: 800;
+    font-family: 'Titillium Web', Helvetica, Arial, sans-serif;
+    text-transform: none;
+	font-size:16px !important;
+ margin-bottom: 5px;
+    padding: 10px 0 10px 20px !important;
+    color: #9a9a9a !important;
+    text-transform: uppercase;
+    font-weight: 700;
+    
+}
+.merritos-mobile-bottomnav-pane-parent
+{
+	    z-index: 1200;
+    top: 40px;
+	background-color: transparent !important;
+}
+.merritos-mobile-bottomnav-pane
+{
+	margin-top:0px;
+	background-color:#f9f9f9;
+	box-shadow:none !important;
+	height:100% !important;
+}
+.merritos-bottomnav
+{
+	z-index:1200;
+}
+.profilegoalgrid
+{
+	padding: 0px !important;
+}
+ .event2Bubble 
+ {
+	 position:relative;
+	 width:auto;
+padding:0px;
+	 left:0;
+	    height: 50vh;
+	width: 100%;
+	margin: 0 ;
+	display:block;
+ background-color:transparent;
+ }
+ .event2Bubble > .container
+ {
+	 padding: 0px !important;
+     
+	 }
+.event2Bubble:after, .event2Bubble:before
+ {
+left:auto;
+bottom:120px;
+display:none;
+ }
+  .event2Bubble i{
+    position: absolute;
+    right: 5px;
+    cursor: pointer;
+    font-size: 16px;
+	background-color: #fff;
+    
+  }
+  .event2Bubble .close{
+    color: #ec3c3c;
+  }
+  .event2Bubble .play-filled{
+    color: #e4bd12;
+  }
+  .event2Bubble .check-circle{
+    color: #05ac05;
+  }
+  .profile-goal
+  {
+	  background-color:#fff;
+	  
+    margin-top: -5px !important;
+  }
+.mobileNavBtn
+{
+color:#ffffff !important;
+	
+}
+/* .profileInfoList
+{
+   margin-top: -10px;
+    vertical-align: top;
+    padding: 0px;
+	} */
+.profileInfoListsec
+{
+	margin: 0px !important;
+	padding:0px;
+	text-align:center;
+}
+.profile-goal-row
+{
+    margin-left: auto;
+    background-color: #fff;
+    margin: 40px 10px 0px 10px;
+    height: 111px;
+    border-radius: 5px;
+}
+
+.profile-goal-arrow
+{
+
+margin-top:6%;
+width:10px;	
+   width: 10px;
+    left: -10px;
+}
+.profile-goal-arrow i
+{
+	color: #4747a0;
+}
+
+.navbarmenutitle
+{
+    text-transform: capitalize;
+    font-size: 20px !important;
+    color: #ffffff !important;
+    margin-left: -20px !important;
+}
+.button-back,.button-forward
+{
+	display:none;
+}
+.events-wrapper
+{
+	margin-left:0px;
+}
+.MHTcontainer hr
+{
+	display:none;
+}
+.nav-item-list
+{
+	background-color:#fff;
+}
+.activity-container{
+    color: rgba(0, 0, 0, 0.87);
+
+    border: 0;
+    display: flex;
+    position: relative;
+    min-width: 0;
+    word-wrap: break-word;
+    font-size: .875rem;
+    margin-top: 30px;
+    background: #fff;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+    margin-bottom: 30px;
+    border-radius: 6px;
+    flex-direction: column;
+	padding:10px;
+
+}
+.activity-header-details label
+{
+	color:#4747a0;
+	font-size: 20px;
+}
+.mobile-view > .full-height
+{
+	box-shadow:transparent;
+	margin-left:10px;
+}
+.react-swipeable-view-container div[data-swipeable="true"]
+{
+	padding: 1px;
+    width: 50% !important;
+    margin: 0PX;
+	max-height: 90vw;
+}
+.roadmap_title
+{
+	font-size:16px !important;
+	color: #333333 !important;
+	padding:10px 8px 0px 8px !important;
+	
+}
+.roadmap_title i
+{
+	vertical-align:bottom;
+}
+.mobile_timeline
+{
+	margin-top: -40px;
+}
+.event2Bubble .dates
+{
+	margin:0px !important;
+}
+/* Edits by Sukanya Dt : 24-12-2018 */
+
+.merritos-header-desktop{
+    background-color:#4747a0 !important;
+    max-height: 48px !important;
+}
+.merritos-header-desktop > div{
+    min-height: 48px !important;
+}
+.merritos-header-desktop button{
+    margin-top:4px;
+}
+.merritos-header-desktop h2 img{
+    width:120px;
+}
+.connect-view-btn{
+    border:1px solid #168f48 !important;
+    border-radius: 5px !important;
+    color: #1aaa55 !important;
+    padding: 4px 10px;
+    background-color: #ffffff;
+    font-size: 13px;
+}
+.connect-detail-btn{
+    border:1px solid #168f48 !important;
+    border-radius: 5px !important;
+    background-color: #1aaa55 !important;
+    color: #ffffff;
+    padding: 4px 10px;
+    font-size: 13px;
+}
+.profileInfoList li:nth-child(1){
+    color: #4747a0 !important;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+.profileInfoList li:nth-child(3) button{
+    background-color: #4747a0 !important;
+    border: 1px solid #4747a0 !important;
+    color: #ffffff;
+    padding: 5px;
+    font-size: 12px;
+    cursor: pointer;
+  }
+.profileInfoListsec li:nth-child(1) i{
+    font-size: 90px;
+    color: #4747a0 !important;
+}
+.disablePic label{
+    color: #4747a0 !important;
+    font-size: 18px;
+    text-transform: capitalize;
+    padding-top: 10px;
+  }
+.disablePic label i{
+    color: #4747a0 !important;
+    font-size: 14px !important;
+    margin-left: 10px;
+    cursor: pointer;
+    border: 1px solid #2196f3;
+   border-radius: 3px;
+    padding: 3px;
+}
+.connect-people-label{
+    margin-top: 15px ;
+    position: absolute;
+    right: 20px;
+    color: #4747a0 !important;
+    padding: 5px;
+    text-transform: none !important;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600 !important;
+}
+.contact-details i{
+    position: absolute;
+    color: #4747a0 !important;
+    right: 15px;
+    cursor: pointer;
+    margin-top: -40px;
+}
+.star-color g{
+    color: #4747a0 !important;
+}
+.merritos-header-bar{
+    font-size:16px !important;
+    color:#ffffff !important;
+    padding-right:20px !important;
+    padding-top:20px !important;
+}
+.merritos-header-bar a{
+    font-size:16px !important;
+    color:#ffffff !important;
+    padding:18px 10px 11px!important;
+}
+.merritos-header-bar a :hover :focus{
+  
+    color:#ffffff !important;
+}
+.merritos-cell i{
+    position: absolute;
+    right: 15px;
+    margin-top: 15px;
+    color: #4747a0 !important;
+}
+.enablePic label{
+    color: #4747a0;
+    font-size: 18px;
+    text-transform: capitalize;
+    padding-top: 10px;
+}
+.enablePic label i{
+      color: #2196f3;
+      font-size: 14px !important;
+      margin-left: 10px;
+      cursor: pointer;
+      border: 1px solid #4747a0;
+     border-radius: 3px;
+      padding: 3px;
+}
+.event1Bubble .eventTitle {
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: #4747a0;
+    font-size: 11px;
+    text-transform: uppercase;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    margin-left: 12px;
+    margin-top: -2px;
+    cursor: pointer;
+}
+.loginbtn{
+    background-color: #1aaa55 !important;
+    float: right;
+    margin-right: 4px !important;
+}
+.mobile-nav-bar {
+    background-color: #fafafa;
+    box-shadow: inset -2px 0 0 #e5e5e5;
+ }
+.label-title {
+   font-weight:600;
+   color: #2e2e2e;
+}
+.nolist-found div{
+    color: #8A8A8A;
+    font-size:16px;
+}
+.nolist-found img
+{
+    width:50px;
+}
+.classes-norecording {
+    padding-top: 0px !important;
+    margin-bottom: 20px;
+}
+.btn-backround-fill{
+    background-color: #1aaa55;
+    color: #ffffff;
+}
+.btn-rounded {
+    border: 1px solid #168f48;
+    background-color: #ffffff;
+    border-radius: 20px;
+    color: #1aaa55;
+    margin: 10px;
+    min-width: 100px;
+}
+.merritos-sub-label-nm{
+    color: #637586;
+    padding: 8px;
+    text-transform: uppercase;
+    display: inline-flex;
+}
+.header-Profile-dropdown{
+    top: 40px !important;
+}
+.header-Profile-dropdown ul li:last-child{
+    border-top: 1px solid rgba(0,0,0,0.1);
+}
+.header-Profile-dropdown ul li:first-child{
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    text-align: center;
+}
+.header-Profile-dropdown ul li:first-child div{
+    padding-left: 0px !important;
+}
+.header-Profile-dropdown ul li:first-child:focus{
+    background-color: unset !important;
+    cursor: text;
+}
+.header-profile-img{
+    max-width: 35px !important;
+    border-radius:40px;
+}
+.text-right{
+    float:right;
+    padding:4px 6px !important;
+    color:#4747a0;
+    font-weight: 600;
+    margin-top:2px;
+}
+.requests-view-icon{
+    margin-right:28px !important;
+}
+.merritos-cell-text{
+    display: flex;
+    width:250px;
+}
+
+/* Pradeep Edits 28-12-2018  starts*/
+/*Connections */
+.statusbar
+{
+    z-index: 2;
+}
+.jobs-activity-col 
+{
+    top:20px
+}
+.connection-sub-title {
+    margin-left: 10px !important;
+    margin-bottom: 10px  !important; 
+    font-size: 16px !important;
+}
+.profilePic-border img
+{
+	    padding: 0px;
+		border: 0px;
+		
+}
+.profile-activity-container
+{
+margin-left:30px;
+}
+@media only screen and (max-width: 600px) {
+    .profile-activity-container
+{
+margin-left:0px;
+}
+}
+
+.contact-info
+{
+	    padding: 0px;
+  
+        box-shadow: 0 0 1px rgba(34, 25, 25, 0.4) !important;
+       
+        border-radius: 5px;
+    cursor:pointer;
+    width:200px;
+
+}
+.contact-name
+{
+    padding: 5px;
+   
+   
+}
+.contact-connect
+{
+    float: right;
+   
+    height: 100%;
+    background: #f1f1f1;
+    transition: background 0.5s;
+    border-left: solid thin rgba(0, 0, 0, 0.1);
+    display: none;
+}
+.contact-details
+{
+    background: #fff;
+      
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+}
+.jobs-custom-row > .defaultCard
+{
+
+    box-shadow:none !important;
+    width:auto !important;
+}
+.profilePic-border img {
+    max-width: 200px !important;
+    border: 0px !important;
+    padding: 0px  !important;
+   
+    
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.contact-details label {
+    
+    font-weight: 600;
+}
+
+.jobs-custom-row  > .defaultCard > .noPadding
+{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.jobs-custom-row  > .defaultCard
+{
+    background:transparent !important;
+}
+.jobs-custom-row {
+    
+
+    padding-left: 0px;
+    padding-right: 9px;
+    background: transparent !important;
+    display: inline-grid !important;
+}
+.jobs-activity-container
+{
+    box-shadow: 0 0 1px rgba(34, 25, 25, 0.4) !important;
+       
+    border-radius: 5px;
+}
+.todayactivity-container .jobs-activity-container
+{
+background-color: #f7faff;
+padding-top: 10px;
+padding-left: 15px;
+border-left: solid 2px #4747A0;
+}
+.todayactivity-container
+{
+    padding:10px;
+}
+/*Classes */
+.classes-header 
+{
+    text-align: center
+}
+.classes-header p {
+font-weight: 700;
+font-size:14px;
+}
+
+.class-tile-header
+{
+    text-align: left;
+   
+    margin-left: 10px;
+}
+.class-tile-header span
+{
+    font-size: 12px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-top: -10px;
+    float: none !important;
+}
+/* Dashboard */
+.profile-pic-timeline
+{
+border-radius: 7px;
+box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
+}
+body {
+    background-color: #F2F3F8;
+}
+.headerClass {
+   
+    font-size: 16px;
+    
+   
+    color: #22b9ff !important;
+   
+    font-weight: 600;
+    font-family: Poppins;
+}
+.disablePic:hover
+{
+cursor: pointer;
+}
+.disablePic i
+{
+    margin: 100px;
+    margin-left: -85px;
+}
+.disablePic img{
+    margin-top: 30px;
+}
+
+.Timeline-non
+{
+    padding: 0 10px;
+    margin-bottom:5px;
+}
+.Timeline-non label{
+    font-weight: 700
+}
+.profile-label-name
+{
+font-weight:600;
+}
+.emptyprofile-label
+{
+    text-transform: none;
+    font-family: roboto;
+}
+/* Pradeep Edits 28-12-2018 Ends */

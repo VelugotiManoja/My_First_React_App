@@ -1,0 +1,235 @@
+.mobile-view-port{
+    display: none;
+    width: 100%;
+}
+.mobile-view-port ul li{
+    list-style: none;
+    padding: 10px;
+    display: table-cell;
+    background-color: #ffffff;
+    height: 80px;
+    vertical-align: middle;
+    text-align: center;
+    width: 25%;
+}
+.mobile-view-port ul li i{
+    display: block;
+    font-size: 30px;
+    padding: 5px 0px;
+
+}
+
+.mobile-view-port ul{
+    width: 100%;
+    display: table;
+    padding: 0px;
+    margin: 0px;
+}
+.layout-right{
+    margin-left: 340px !important;
+    max-width:73% !important;
+}
+.desktop-disable{
+display: none;
+}
+.back-to-activity{
+    font-size: 26px !important;
+    border: 1px solid #f3f3f3;
+    background-color: #ededed;
+    border-radius: 5px;
+    margin-top: -6px;
+    margin-right: 15px !important;
+    cursor: pointer;
+}
+.back-to-activity-search{
+    font-size: 26px !important;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin-top: -6px;
+    margin-right: 15px !important;
+    cursor: pointer;
+}
+.label-basic-info{
+    padding: 20px 5px 5px 25px;
+}
+.activeTab-activity{
+    background-color: #2196f3 !important;
+    color: #ffffff;
+}
+@media screen and (max-width: 600px) {
+    .label-timelinehit-mob{
+font-size: 14px;
+color: #333333;
+   padding-bottom: 10px;
+  
+    }
+    .mob-profilebar i{
+        font-size: 13px;
+        right: 6px;
+        position: absolute;
+        top: 7px;
+    }
+    .mob-profilebar{
+        color: #4747a0;
+        background-color: #ffffff;
+        /* height: 20px; */
+        margin-top: 16px;
+        position: absolute;
+        width: 94%;
+        margin-left: 10px;
+        margin-right: 10px;
+        text-align: center;
+        border-radius: 5px;
+        padding: 3px;
+        font-size: 13px;
+    }
+    .add-skills-to-goal{
+        position: absolute;
+        right: 10px;
+        margin-top: -36px;
+        cursor: pointer;
+    }
+    .eventmobBubble{
+        margin: 0px;
+        width: 157px;
+    }
+    .merritos-bottomnav {
+        z-index: 1200;
+        top: auto;
+        bottom: 0;
+        position: fixed;
+        width: 100%;
+        left: 0;
+        border-top:solid 1px #999;
+        margin-top: 0;
+    }
+    .dashboard-mobile-container{
+        margin-top:50px !important;
+    }
+    .dashboard-mobile-back{
+    font-size: 26px !important;
+    border: 1px solid #f3f3f3;
+    background-color: #ededed;
+    border-radius: 5px;
+    margin-right: 10px !important;
+    margin-top:-4px !important;
+    margin-left: 15px !important;
+    }
+    .row-flex-nowarp{
+        flex-wrap: wrap !important;
+        
+    }
+    .profile-pic-timeline{
+        width: 64px;
+    border-radius: 40px;
+    overflow: hidden;
+    margin-top: 10px;
+    height: 63px;
+    }
+    .profile-pic-timeline img{
+        width: 62px;
+        overflow: hidden;
+    }
+    .profileInfoListsecMob{
+        margin-top: 10px;
+    }
+    .profileInfoListsecMob img{
+width: 47px;
+    }
+    .profileInfoListMob{
+        padding-top: 0px; 
+    }
+    .mobile-timeLine{
+        width: 100%;
+        margin-top: 175px;
+        background-color: #ffffff;
+    }
+    .profile-goal{
+        background-color:#4747a0;
+        left: 0;
+        position: fixed;
+        height: 180px;
+    }
+    .connect-people-label {
+        margin-top: 5px ;
+    }
+    .profile-row{
+        height:calc(100% - 50px);
+    }
+    .connection-search-bar{
+        width: 200px;
+        padding: 5px 20px;
+        bottom: 0px;
+    }
+    .back-from-profile{
+        margin-top: -5px;
+    }
+    .activity-label{
+        font-size: 14px !important;
+        margin-top: 10px !important;
+    }
+    .mobileviewrowheight{
+        height: 50px;
+    }
+    .mobileviewheight{
+        height: 100%;
+    }
+    .mobile-disable{
+        display: none !important;
+    }
+    .nm{
+        margin: 0px !important;
+    }
+    .activity-container{
+        margin-left: 0px;
+    }
+    .activity-date{
+       width: 100%;
+       margin-top: -34px;
+       z-index: -1;
+    }
+    .activity-timeline-border{
+        width: 50%;
+        height: calc(100% + 28px);
+    }
+    .nbg-color{
+        margin-top: 50px !important;
+    }
+    .mobile-view-port{
+        display: block;
+        position: fixed;
+        bottom: 0px;
+    }
+    .desktop-disable{
+        display: block;
+    }
+    .mobile-card-view{
+        height: calc(100% - 20px);
+        overflow: auto;
+        margin: 0px !important;
+       
+    }
+    .layout-right{
+        margin: 0px !important;
+        max-width:100% !important;
+    }
+    .event-nogoal{
+        height: 130px !important;
+        margin:0px 1px;
+    }
+    .mobBubbleNoGoal{
+        height:115px !important;
+        margin:-5px 0px !important;
+    }
+    .settitle-nogoal{
+        height: 35px !important; 
+    }
+    .eventmobBubble .eventTitlenoGoal {
+       top: 45px;
+    }
+    .swipe-nogoal{
+        margin-top:14px !important
+    }
+  
+}
